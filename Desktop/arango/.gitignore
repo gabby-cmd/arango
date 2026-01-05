@@ -49,3 +49,7 @@ logs/
 .wrangler/
 .dev.vars
 
+# Documentation files (exclude from git)
+*.md
+!README.md
+
